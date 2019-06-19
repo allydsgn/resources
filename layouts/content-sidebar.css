@@ -10,9 +10,11 @@
 	float: left;
 	margin: 0 -25% 0 0;
 	width: 100%;
+    background-color: #e3e1da;
 }
 .site-main {
 	margin: 0 25% 0 0;
+    background-color: #fffdf5;
 }
 .site-content .widget-area {
 	float: right;
